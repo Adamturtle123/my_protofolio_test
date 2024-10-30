@@ -1,0 +1,32 @@
+.sh {
+    background-color: brown;
+    display: block;
+
+    padding-left: 50%;
+}
+
+.List{
+    border-bottom: 2px solid red;
+   
+    font-size: larger;
+}
+
+.li1,
+.li2,
+.li3 {
+    background-color: beige;
+    margin: 20px 12px;
+    border-bottom: 2px solid gray;
+}
+
+.button {
+    border: none;
+    padding: 2%;
+    font-size: medium;
+    width: 25%;
+    margin-left: 50%;
+    color: black;
+    text-align: center;
+    display: inline-block;
+    background-color: black;
+}
